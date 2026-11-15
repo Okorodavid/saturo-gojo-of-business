@@ -1,0 +1,4 @@
+interface:
+  display_name: "Saturo Gojo of Business"
+  short_description: "Source-grounded sales and business advice"
+  default_prompt: "Use $saturo-gojo-of-business to help me make this business or sales decision using evidence, honest economics, and an actionable next step."

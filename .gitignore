@@ -1,0 +1,8 @@
+# Private source material must never be committed.
+saturo-gojo-of-business/library/
+*.pdf
+*.epub
+*.mobi
+sales-books-and-hormozi-complete.md
+__pycache__/
+*.pyc

@@ -1,0 +1,66 @@
+# The New Strategic Selling: remaining PDF180–315
+
+Scope: Source 7, *The New Strategic Selling*, assigned remaining text/OCR in PDF180–315. All12 chunks were read completely and acknowledged afterward. The package begins within chapter10 and ends within chapter18. Previously credited PDF298–304 raw text is omitted; PDF299 funnel OCR is included. This is package completion only; adjacent packages cover earlier and later material. Page references are PDF file pages. Examples, claimed regularities and numerical prescriptions remain source claims rather than independently verified findings.
+
+## Results and personal Wins are different evidence problems
+
+Chapter10's remaining text, PDF180–196, distinguishes shared business Results from individual Wins. The overtime example on181 is especially useful: a 16 percent reduction can satisfy a manager's wish for control, give one employee more family time, and reduce another employee's necessary income. A favorable business metric is not automatically favorable to every affected person. This changes the advisory task from selling a single ROI claim to understanding distribution of consequences.
+
+The source proposes inference, direct attitudinal questions and Coaching to identify Wins. Role-related results provide starting hypotheses: Economic Buyers consider growth and stability, users workplace performance, technical buyers screening requirements. Yet PDF184 explicitly calls inference sophisticated guessing and requires checking it. Trophies, family photographs or punctual meetings do not establish private motives. The later Porsche and cautious-executive anecdotes confidently infer hidden identity or security motives, creating tension with that caution. Treat these as hypotheses to explore, not explanations that override stated reasons.
+
+PDF187–188 rejects projecting the seller's preferences onto a buyer under the guise of empathy. The useful question is how this particular person might benefit from the available Result. The workshop on188–195 operationalizes this: identify industry-typical results, test whether they are measurable/shared/business-related, narrow them to the current objective, articulate the process-to-result-to-personal-benefit linkage, flag unknowns and revise possible actions. A generic lunch is weaker than a targeted conversation that resolves a named uncertainty.
+
+The insistence that self-interest explains all decisions is a broad theoretical assertion, not demonstrated causal law. Personal benefit can include contribution, security or recognition, but moral obligations, organizational rules and conflicting interests cannot always be converted into a Win for everyone. The framework is strongest when it uncovers a genuine disadvantage and changes the proposal or qualification decision.
+
+## Economic authority must be verified for this purchase
+
+Chapter11, PDF198–229, separates three problems: identifying the Economic Buying Influence, reaching that person, and speaking comfortably with them. This role is sale-specific, not permanently attached to an account or title. The float factor, PDF203–206, explains why authority shifts with relative purchase size, business conditions, vendor familiarity, product familiarity and organizational impact. Their common mechanism is perceived risk. A seller's confidence that a system is safe does not establish the buyer's risk assessment.
+
+Use organizational analogies to locate likely authority, then verify through questions about whose budget funds the purchase, who can veto, and what occurs after the contact's approval. Coaching can cross-check answers. The source warns against settling too low merely because senior people intimidate the seller. Its rule to cover one level higher is a heuristic, not permission to bypass formal procurement or an actual delegated authority.
+
+Blocking strategies on209–213 favor helping the blocking contact become a sponsor by bringing something valuable to the final decision maker. Bypassing can create long-lived opposition; sometimes withdrawing a proposal protects a larger relationship. Gary's reported decision to forgo a $10,000 commission rather than jeopardize an account illustrates that opportunity cost. It is an anecdote, not proof every accommodation later pays twice over. The assertion that all blocking arises from personal Lose perception is too absolute: access restrictions can reflect governance, time constraints, confidentiality or a legitimate screening task.
+
+PDF213–219 sharply contrasts an unprepared executive drop-in with a valid business reason. The seller should bring knowledge useful to planning, not simply request time because an order would be valuable to the seller. The Concept decision concerns what the customer wants to achieve—why automate, for instance—before choosing which product supplies it. Results-first discussion does not eliminate technical evidence; it delivers details when relevant to that executive's questions.
+
+Credibility options include peers from the seller's organization, successful customer installations, executive briefings and experts. These can make claims inspectable, but a sponsored expert is not automatically impartial. The snack-food presentation's later shelf-space gain is reported association without a counterfactual. Periodic contact must retain a business reason; the six-month rule is a planning prompt rather than universal cadence. The final four-question preparation check asks what to find out and what the buyer should know, do and feel.
+
+## A Coach is more than a friendly contact
+
+Chapter12, PDF230–248, gives the Coach a precise information role. Three conditions matter: the seller has credibility with the Coach, relevant buyers trust the Coach, and the Coach wants this particular sale to succeed. PDF233 explicitly revises the first edition's tolerance for missing criteria: two out of three now requires caution and a Red Flag. This is an important development that broad framework sampling could miss.
+
+The false-Coach categories clarify common mistakes. A friend may like the seller without supporting this objective; an information giver may provide public facts or irrelevant secrets; an internal advocate may sell enthusiastically without trusted access; a mentor may support a career rather than understand this sale. Unique and useful information means decision-specific guidance unavailable through ordinary research. It does not mean soliciting confidential material someone lacks authority to disclose.
+
+The ideal Economic-Buyer-as-Coach reduces authority uncertainty but does not cancel other participants' needs. Coaches guide; the seller remains responsible for appropriate coverage. Mel, PDF239–240, helped earlier deals as a user but had little stake in the new software purchase. Redirecting through him preserves rapport while finding a relevant resource. Conflicting reports about Fox's impending departure, PDF241–242, motivate direct reassessment rather than blind loyalty to one source.
+
+Multiple sources improve error detection, but cannot guarantee truth; their information may share an origin or political bias. PDF243's final appeal to gut feelings should therefore generate an investigation flag rather than a verdict. The workshop tests recent track record, actual access and current stake, then chooses whether to develop, supplement or replace the Coach. It usefully admits that someone may correctly see no personal Win in this sale.
+
+## Competition includes alternatives to buying anything
+
+Chapter13, PDF249–269, defines competition as any alternative solution: another supplier, internal provision, a different use of budget, or doing nothing. The hotel-lighting seller loses to sprinkler repairs, illustrating competition between priorities rather than equivalent products. For service businesses, the buying decision therefore includes whether to change and whether to outsource, before vendor selection.
+
+The authors oppose competitor obsession, not competitor knowledge. Their workshop explicitly asks about rival strengths, prices, sponsors and past delivery. The problem is allowing those facts to become the entire strategy, producing reactive feature matching and discounting. Differentiation should be a contribution the customer values, not a difference the seller wishes mattered.
+
+Their critiques on259–263 are specific: late premium-price justification cannot repair missing value discovery; imposing criteria to match the seller's strengths is manipulative; pretending humility while insinuating competitor defects undermines trust. Early collaborative criteria design is different. A second-supplier beachhead can be legitimate when there is real room and patience. The source forbids inventing dissatisfaction or repeatedly offering unwanted assistance to a content customer.
+
+Incumbents must recheck new people, reorganizations and changing needs. High price should be evaluated against contribution and total economics, although the claim that demonstrating value makes price seldom decisive overstates matters: affordability can remain binding. The blind-bid advice on266 also overgeneralizes. A request for bids does not prove a rival has prewired the outcome. The transferable mechanism is deliberate bid/no-bid analysis of fit, access, evidence and pursuit cost, not automatic rejection of transparent procurement.
+
+## Qualification must protect both sides' economics
+
+Chapters14–15, PDF271–290, reject any-sale-is-good-sale thinking. The Ideal Customer is a hypothetical comparison standard, not a perfect real customer. The moving-company story makes reciprocal fit concrete: an attractive account promises 12 percent additional revenue but demands short-notice summer moves when capacity is scarce. Volume increases while service burden and economics deteriorate.
+
+The profile combines objective operating characteristics with organizational values and attitudes. Its exercise starts with actual past/current best and worst customers, derives distinguishing characteristics, narrows them to five and evaluates accounts against them. Funding and basic need are prerequisites rather than sufficient signs of exceptional fit. Ethical standards, innovation, quality expectations, delivery logistics and decision process may differentiate accounts.
+
+Scores from minus 5 to plus 5 remain rough judgment aids. PDF285–288 explicitly says not to drop a mathematically poor account automatically or become complacent about a good one. A large opportunity may warrant adapting to a slower cycle; a seemingly ideal company loyal to another supplier may offer no current opening. Examine mismatches individually and either manage them or decline.
+
+This has a bias risk: easy, familiar customers may feel best even when unfamiliar customers could be served profitably. Validate the profile against margin, delivery effort, retention and actual outcomes. Cultural examples of named companies are historical illustrations; they do not establish current values or uniformity across individuals. The 35 percent poor-business estimate is based on manager conversations, not a representative measurement.
+
+## Pipeline health requires evidence and replenishment
+
+Chapters16–18, PDF292–315, distinguish strategy for one measurable sales objective from managing a whole account portfolio. Selling time is narrowly defined as buyer dialogue about Growth or Trouble; the authors expressly acknowledge support, training and administration remain essential. Their 5–15 percent estimate should not become a universal productivity benchmark.
+
+The funnel classifies objectives by evidence and work remaining. Universe entries are possible profile fits; Above the Funnel has concrete evidence suggesting need; In the Funnel has confirmed fit and at least one buyer discussion of discrepancy. Best Few requires covered bases, expected near-term completion and specific closing tasks. Its 90 percent confidence and half-normal-cycle tests are heuristics, not calibrated forecasting probabilities. Barry's lost budget-delayed order, PDF305, shows why optimism and waiting cannot substitute for continued coverage.
+
+The workshop looks for stalled objectives and empty stages, then assigns stage-appropriate work. Priority order is closing Best Few, prospecting, qualifying, then covering existing funnel objectives. The reason is to prevent comfortable middle-stage relationships from consuming all time while future opportunities disappear. Every close should trigger prospecting or qualification elsewhere. Actual time allocation remains dynamic, based on task count, difficulty and effort rather than merely percentages of orders. The text admits external seasonal and economic cycles even while overstating predictable-income guarantees.
+
+Full reading adds practical tests and corrective qualifications beyond the framework labels: inference must be checked, Coaches are sale-specific and fully qualified, poor-fit business can be declined, scores are provisional, and stage movement needs evidence. The common operating discipline is repeated reassessment that converts a named uncertainty into a specific next action. Its value survives without adopting universal claims about motives, guaranteed predictability or inevitable retaliation.
+
