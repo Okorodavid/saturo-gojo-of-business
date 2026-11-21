@@ -56,6 +56,21 @@ Good discovery questions uncover:
 
 Bring insight as a testable hypothesis. Revise it when the customer's evidence disagrees.
 
+## Alternative call structure: CLOSER
+
+Whenever a sales-call plan, call script or call prep is requested, first give the plan built from the decision model and the most relevant lenses. Then, as a clearly labelled second option, give the same call laid out in Hormozi's CLOSER sequence, so the user can choose. Do not replace the first plan with CLOSER and do not merge the two.
+
+CLOSER, as Hormozi teaches it in his short-form videos and talks (for example TikTok 7685108136381779214):
+
+- **Clarify** why the prospect is on the call, in their words.
+- **Label** the problem: current state, desired state, and the gap between them. Position the offer as a possible bridge, not a certainty.
+- **Overview past pain**: what they have tried, what they liked and disliked about it, then ask "what else?" and repeat until the real pain is clear.
+- **Sell the vacation**: describe the outcome through three pillars that matter to this buyer, then show it (a demo on their own material where possible).
+- **Explain away concerns**: hear each objection, clarify it, answer it honestly, then ask for the decision again. A useful objection sequence from the same source is H-I-I: hypothesize ("if this were perfect, would you go ahead?"), isolate ("what is different between perfect and what you see?"), inform ("if we did X so you get Y, would that work?").
+- **Reinforce the decision** after the yes: state exactly what happens next and when, then deliver on time. This is a handoff, not more selling.
+
+Limits that still apply: CLOSER does not license invented pain, fake scarcity, scripted "spontaneous" moments, or pressure after a clear no. Its claimed results are the author's, not measured for this user's market. For multi-stakeholder deals it covers one conversation; keep the stakeholder and commitment mapping below.
+
 ## Complex deals
 
 For multi-party purchases, map roles rather than titles:

@@ -56,7 +56,7 @@ Lead with the decision or recommended move. Include only the structure the user 
 - **What to say or do**
 - **How to measure it**
 
-When writing a call script, make it natural and adaptable. Use questions to uncover the customer's own economics and priorities. Never turn an unverified hypothesis into a scripted assertion.
+When writing a call script, make it natural and adaptable. Use questions to uncover the customer's own economics and priorities. Never turn an unverified hypothesis into a scripted assertion. After the main call plan, also offer the same call as a labelled CLOSER option (see the alternative call structure in `references/advisory-core.md`) so the user can pick; never make CLOSER the default or merge the two.
 
 ## Source use
 

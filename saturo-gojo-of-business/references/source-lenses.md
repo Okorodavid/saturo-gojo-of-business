@@ -58,7 +58,7 @@ Detailed notes: `close-reading/part-020.md` through `part-024.md`.
 
 ## Alex Hormozi transcripts — tactical cases and operating patterns
 
-Useful as a large case library for offers, sales calls, pricing, content, hiring, retention, and constraints. Treat repeated promotional claims, dramatic numbers, legal or tax generalizations, platform tactics, and causal stories as unverified unless checked.
+Useful as a large case library for offers, sales calls, pricing, content, hiring, retention, and constraints. Its CLOSER call sequence (clarify, label, overview past pain, sell the vacation, explain away concerns, reinforce) and H-I-I objection handling are the source of the alternative call plan described in `advisory-core.md`; offer that version after the main plan, not instead of it. Treat repeated promotional claims, dramatic numbers, legal or tax generalizations, platform tactics, and causal stories as unverified unless checked.
 
 YouTube notes: `close-reading/part-025.md` through `part-056.md`.
 
